@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "frps.exe -c frps.ini",0

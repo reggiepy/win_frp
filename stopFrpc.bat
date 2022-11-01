@@ -1,0 +1,1 @@
+taskkill /im frpc.exe /t /f

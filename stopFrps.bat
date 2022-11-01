@@ -1,0 +1,1 @@
+taskkill /im frps.exe /t /f
